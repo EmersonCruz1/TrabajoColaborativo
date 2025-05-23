@@ -1,0 +1,5 @@
+>>>COMANDOS BÁSICOS GIT<<<
+git add
+Git Checkout
+git clean
+git clone

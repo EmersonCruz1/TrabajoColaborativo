@@ -1,2 +1,7 @@
+<<<<<<< Updated upstream
 Hola soy Emerson
 Archivo Editado
+=======
+asfasfHola soy Emerson
+Linea añadida por Marta
+>>>>>>> Stashed changes

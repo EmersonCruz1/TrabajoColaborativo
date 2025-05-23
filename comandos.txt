@@ -3,3 +3,5 @@ git add
 Git Checkout
 git clean
 git clone
+
+--fin
